@@ -35,5 +35,8 @@ print(sample_url[-4:])
 # print url without http
 print(sample_url[7:])
 
-# both without http or http
+# both without http or domain
 print(sample_url[7:-4])
+
+print(sample_url)
+
